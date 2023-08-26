@@ -19,6 +19,7 @@ class Solution {
 };
 
 int main() {
+    
     std::vector<int> input = {0, 1, 2, 2, 3, 0, 4, 2};
     int valueToRemove = 2;
 
@@ -30,7 +31,7 @@ int main() {
 
     Solution solution;
     int result = solution.removeElement(input, valueToRemove);
-     std::cout << "size: " << result << std::endl;
+    std::cout << "size: " << result << std::endl;
 
     return 0;
 }
