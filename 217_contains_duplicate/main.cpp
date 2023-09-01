@@ -1,13 +1,15 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
+#include <unordered_set>
 
 class Solution {
 public:
     bool containsDuplicate(std::vector<int>& nums) {
-        for (auto it = nums.begin(); it != nums.end(); ++it) {
-            if (std::count(nums.begin(), nums.end(), *it) > 1)
+        std::unordered_set<int> checkedNums;
+        for (int num : nums) {
+            if (checkedNums.count(num) > 0)
             return true;
+            checkedNums.insert(num);
         }
         return false;
     } 
