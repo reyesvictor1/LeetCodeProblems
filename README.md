@@ -14,4 +14,5 @@ Code practice problems from LeetCode platform.
 | 66    | [Plus One](https://leetcode.com/problems/plus-one/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/66_plus_one/main.cpp)      | |
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/169_majority_element/main.cpp)      | |
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/217_contains_duplicate/main.cpp)      | |
+| 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
 | 2553  | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)     | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2553_separate_the_digits_in_an_array/main.cpp)      | |
