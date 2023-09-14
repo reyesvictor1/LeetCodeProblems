@@ -3,7 +3,7 @@ Code practice problems from LeetCode platform.
 
 | Problem | Title | C++ | Java |
 |---------|-------|:---:|:----:|
-| 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1_two_sum/main.cpp)      | [✓]
+| 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1_two_sum/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1_two_sum/Solution.java) |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2_add_two_numbers/main.cpp)      | |(https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1_two_sum/Solution.java) |
 | 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/9_palindrome_number/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/9_palindrome_number/Solution.java) |
 | 14    | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/14_longest_common_prefix/main.cpp)      | |
