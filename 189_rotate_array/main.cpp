@@ -1,23 +1,28 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
-class Solution {
+class SolutionA { // time limit exceeded
 public:
     void rotate(std::vector<int>& nums, int k) {
         // get k modulus (in case k is greater than size of vector)   
         k = k % nums.size();
 
-        // create a vector containing the nums last k elements
-        std::vector<int> temp;
-        for (int idx = nums.size() - 1; idx >= nums.size() - k; --idx) {
-            temp.push_back(nums[idx]);           
-        }
-
-        // insert and remove the last k elements of nums
         for (int idx = 0; idx < k; ++idx) {
-            nums.insert(nums.begin(), temp[idx]);
+            nums.insert(nums.begin(), nums.back());
             nums.pop_back();
-        }
+        }  
+    }
+};
+
+class SolutionB { // taken from other submissions 
+public:
+    void rotate(std::vector<int>& nums, int k) {
+        // get k modulus (in case k is greater than size of vector)
+        k = k % nums.size();
+        std::reverse(nums.end() - k, nums.end());
+        std::reverse(nums.begin(), nums.end() - k);
+        std::reverse(nums.begin(), nums.end());
     }
 };
 
@@ -29,7 +34,7 @@ int main() {
     for (int num : nums) std::cout << num << " ";
     std::cout << std::endl;
 
-    Solution solution;
+    SolutionB solution;
     solution.rotate(nums, k);
     std::cout << "output: ";
     for (int num : nums) std::cout << num << " ";
