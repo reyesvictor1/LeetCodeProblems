@@ -14,6 +14,7 @@ Code practice problems from LeetCode platform.
 | 58    | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                 |  [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/58_length_of_last_word/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/58_length_of_last_word/Solution.java) |
 | 66    | [Plus One](https://leetcode.com/problems/plus-one/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/66_plus_one/main.cpp)      | |
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/125_valid_palindrome/main.cpp)      | |
+| 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/151_reverse_words_in_a_string/main.cpp)   | |
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/169_majority_element/main.cpp)      | |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/189_rotate_array/main.cpp)      | |
 | 206   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/206_reverse_linked_list/main.cpp)      | |
