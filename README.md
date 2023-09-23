@@ -23,6 +23,7 @@ Code practice problems from LeetCode platform.
 | 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
 | 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/347_top_k_frequent_elements/main.cpp)      | |
+| 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/383_ransom_note/main.cpp)      | |
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/709_to_lower_case/main.cpp)      | |
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/860_lemonade_change/main.cpp)      | |
 | 2553  | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)     | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2553_separate_the_digits_in_an_array/main.cpp)      | |
