@@ -19,7 +19,6 @@ Code practice problems from LeetCode platform.
 | 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)   | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/151_reverse_words_in_a_string/main.cpp)   | |
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/169_majority_element/main.cpp)      | |
 | 168   | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/168_excel_sheet_column_title/main.cpp)      | |
-| 168   | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/168_excel_sheet_column_title/main.cpp)      | |
 | 171   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/171_excel_sheet_column_number/main.cpp)      | |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/189_rotate_array/main.cpp)      | |
 | 202   | [Happy Number](https://leetcode.com/problems/happy-number/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/202_happy_number/main.cpp)      | |
