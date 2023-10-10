@@ -24,7 +24,7 @@ Code practice problems from LeetCode platform.
 | 202   | [Happy Number](https://leetcode.com/problems/happy-number/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/202_happy_number/main.cpp)      | |
 | 206   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/206_reverse_linked_list/main.cpp)      | |
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/217_contains_duplicate/main.cpp)      | |
-| 217   | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/217_contains_duplicate/main.cpp)      | |
+| 217   | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate/)             | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/217_contains_duplicate/main.cpp)      | |
 | 242   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/242_valid_anagram/main.cpp)      | |
 | 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
 | 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
