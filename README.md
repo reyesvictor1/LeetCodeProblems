@@ -17,19 +17,19 @@ Code practice problems from LeetCode platform.
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/125_valid_palindrome/main.cpp)      | |
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/136_single_number/main.cpp)      | |
 | 141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/141_linked_list_cycle/main.cpp)      | |
-| 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)   | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/151_reverse_words_in_a_string/main.cpp)   | |
+| 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/151_reverse_words_in_a_string/main.cpp)   | |
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/169_majority_element/main.cpp)      | |
-| 168   | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/168_excel_sheet_column_title/main.cpp)      | |
+| 168   | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/168_excel_sheet_column_title/main.cpp)      | |
 | 171   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/171_excel_sheet_column_number/main.cpp)      | |
-| 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/189_rotate_array/main.cpp)      | |
-| 202   | [Happy Number](https://leetcode.com/problems/happy-number/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/202_happy_number/main.cpp)      | |
+| 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/189_rotate_array/main.cpp)      | |
+| 202   | [Happy Number](https://leetcode.com/problems/happy-number/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/202_happy_number/main.cpp)      | |
 | 206   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/206_reverse_linked_list/main.cpp)      | |
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/217_contains_duplicate/main.cpp)      | |
 | 217   | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate/)             | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/217_contains_duplicate/main.cpp)      | |
 | 242   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/242_valid_anagram/main.cpp)      | |
-| 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
-| 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
-| 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/344_reverse_string/main.cpp)      | |
+| 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
+| 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
+| 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/344_reverse_string/main.cpp)      | |
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/347_top_k_frequent_elements/main.cpp)      | |
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/383_ransom_note/main.cpp)      | |
 | 412   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/412_fizz_buzz/main.cpp)      | |
