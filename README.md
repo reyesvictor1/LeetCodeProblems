@@ -33,7 +33,7 @@ Code practice problems from LeetCode platform.
 | 242   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/242_valid_anagram/main.cpp)      | |
 | 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
 | 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
-| 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                | | |
+| 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/283_move_zeroes/main.cpp)      | |
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/344_reverse_string/main.cpp)      | |
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/347_top_k_frequent_elements/main.cpp)      | |
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/383_ransom_note/main.cpp)      | |
