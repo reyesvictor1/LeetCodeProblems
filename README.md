@@ -5,6 +5,7 @@ Code practice problems from LeetCode platform.
 |---------|-------|:---:|:----:|
 | 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1_two_sum/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1_two_sum/Solution.java) |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2_add_two_numbers/main.cpp)      | |
+| 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/3_longest_substring_without_repeating_characters/main.cpp)      | |
 | 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/9_palindrome_number/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/9_palindrome_number/Solution.java) |
 | 14    | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/14_longest_common_prefix/main.cpp)      | |
 | 17    | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/17_letter_combinations_of_a_phone_number/main.cpp) | |
