@@ -46,6 +46,7 @@ Code practice problems from LeetCode platform.
 | 844   | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/844_backspace_string_compare/main.cpp)      | |
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/860_lemonade_change/main.cpp)      | |
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/896_monotonic_array/main.cpp)      | |
+| 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                     | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1051_height_checker/main.cpp)      | |
 | 1816  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1816_truncate_sentence/main.cpp)      | |
 | 2418  | [Sort the People](https://leetcode.com/problems/sort-the-people/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2418_sort_the_people/main.cpp)      | |
 | 2553  | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)     | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2553_separate_the_digits_in_an_array/main.cpp)      | |
