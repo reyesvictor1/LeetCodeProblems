@@ -19,7 +19,7 @@ Code practice problems from LeetCode platform.
 | 66    | [Plus One](https://leetcode.com/problems/plus-one/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/66_plus_one/main.cpp)      | |
 | 80    | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/80_remove_duplicates_from_sorted_array_ii/main.cpp)      | |
 | 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/88_merge_sorted_array/main.cpp)      | |
-| 120   | [Triangle](https://leetcode.com/problems/triangle/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/120_triangle/main.cpp)      | |
+| 120   | [Triangle](https://leetcode.com/problems/triangle/)                                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/120_triangle/main.cpp)      | |
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/125_valid_palindrome/main.cpp)      | |
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/136_single_number/main.cpp)      | |
 | 141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/141_linked_list_cycle/main.cpp)      | |
