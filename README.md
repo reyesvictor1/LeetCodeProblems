@@ -52,6 +52,7 @@ Code practice problems from LeetCode platform.
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/860_lemonade_change/main.cpp)      | |
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/896_monotonic_array/main.cpp)      | |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                     | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1051_height_checker/main.cpp)      | |
+| 1436  | [Destination City](https://leetcode.com/problems/destination-city/)                    |   | |
 | 1732  | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1732_find_the_highest_altitude/main.cpp)      | |
 | 1748  | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1748_sum_of_unique_elements/main.cpp)      | |
 | 1816  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1816_truncate_sentence/main.cpp)      | |
