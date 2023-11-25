@@ -18,6 +18,7 @@ Code practice problems from LeetCode platform.
 | 55    | [Jump Game](https://leetcode.com/problems/jump-game/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/55_jump_game/main.cpp)      | |
 | 58    | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                 |  [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/58_length_of_last_word/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/58_length_of_last_word/Solution.java) |
 | 66    | [Plus One](https://leetcode.com/problems/plus-one/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/66_plus_one/main.cpp)      | |
+| 70    | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/70_climbing_stairs/main.cpp)      | |
 | 80    | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/80_remove_duplicates_from_sorted_array_ii/main.cpp)      | |
 | 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/88_merge_sorted_array/main.cpp)      | |
 | 120   | [Triangle](https://leetcode.com/problems/triangle/)                                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/120_triangle/main.cpp)      | |
