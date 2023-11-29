@@ -59,6 +59,7 @@ Code practice problems from LeetCode platform.
 | 1732  | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1732_find_the_highest_altitude/main.cpp)      | |
 | 1748  | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1748_sum_of_unique_elements/main.cpp)      | |
 | 1816  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1816_truncate_sentence/main.cpp)      | |
+| 2000  | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2000_reverse_prefix_of_word/main.cpp)      | |
 | 2215  | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2215_find_the_difference_of_two_arrays/main.cpp)| |
 | 2315  | [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2315_count_asterisks/main.cpp)| |
 | 2418  | [Sort the People](https://leetcode.com/problems/sort-the-people/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2418_sort_the_people/main.cpp)      | |
