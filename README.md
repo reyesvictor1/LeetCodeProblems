@@ -23,6 +23,7 @@ Code practice problems from LeetCode platform.
 | 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/88_merge_sorted_array/main.cpp)      | |
 | 120   | [Triangle](https://leetcode.com/problems/triangle/)                                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/120_triangle/main.cpp)      | |
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/125_valid_palindrome/main.cpp)      | |
+| 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/128_longest_consecutive_sequence/main.cpp)| |
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/136_single_number/main.cpp)      | |
 | 141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/141_linked_list_cycle/main.cpp)      | |
 | 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/151_reverse_words_in_a_string/main.cpp)   | |
@@ -66,5 +67,6 @@ Code practice problems from LeetCode platform.
 | 2032  | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2032_two_out_of_three/main.cpp)      | |
 | 2215  | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2215_find_the_difference_of_two_arrays/main.cpp)| |
 | 2315  | [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2315_count_asterisks/main.cpp)| |
+| 2390  | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2390_removing_stars_from_a_string/main.cpp)| |
 | 2418  | [Sort the People](https://leetcode.com/problems/sort-the-people/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2418_sort_the_people/main.cpp)      | |
 | 2553  | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)     | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2553_separate_the_digits_in_an_array/main.cpp)      | |
