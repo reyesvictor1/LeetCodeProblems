@@ -50,6 +50,7 @@ Code practice problems from LeetCode platform.
 | 520   | [Detect Capital](https://leetcode.com/problems/detect-capital/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/520_detect_capital/main.cpp)      | |
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/704_binary_search/main.cpp)      | |
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/709_to_lower_case/main.cpp)      | |
+| 746   | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/746_min_cost_climbing_stairs/main.cpp)      | |
 | 771   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/771_jewels_and_stones/main.cpp)      | |
 | 832   | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/832_flipping_an_image/main.cpp)      | |
 | 844   | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/844_backspace_string_compare/main.cpp)      | |
