@@ -58,6 +58,7 @@ Code practice problems from LeetCode platform.
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/896_monotonic_array/main.cpp)      | |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1051_height_checker/main.cpp)      | |
 | 1266  | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1266_minimum_time_visiting_all_points/main.cpp)   | |
+| 1323  | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1323_maximum_69_number/main.cpp) | |
 | 1436  | [Destination City](https://leetcode.com/problems/destination-city/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1436_destination_city/main.cpp) | |
 | 1572  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1572_matrix_diagonal_sum/main.cpp) | |
 | 1732  | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1732_find_the_highest_altitude/main.cpp)      | |
