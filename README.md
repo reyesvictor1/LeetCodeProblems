@@ -37,6 +37,7 @@ Code practice problems from LeetCode platform.
 | 242   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/242_valid_anagram/main.cpp)      | |
 | 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
 | 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
+| 268   | [Missing Number](https://leetcode.com/problems/missing-number/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/268_missing_number/main.cpp)      | |
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/283_move_zeroes/main.cpp)      | |
 | 322   | [Coin Change](https://leetcode.com/problems/coin-change/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/322_coin_change/main.cpp)      | |
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/344_reverse_string/main.cpp)      | |
@@ -60,6 +61,7 @@ Code practice problems from LeetCode platform.
 | 1266  | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1266_minimum_time_visiting_all_points/main.cpp)   | |
 | 1323  | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1323_maximum_69_number/main.cpp) | |
 | 1436  | [Destination City](https://leetcode.com/problems/destination-city/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1436_destination_city/main.cpp) | |
+| 1512  | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1512_number_of_good_pairs/main.cpp) | |
 | 1572  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1572_matrix_diagonal_sum/main.cpp) | |
 | 1732  | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1732_find_the_highest_altitude/main.cpp)      | |
 | 1748  | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1748_sum_of_unique_elements/main.cpp)      | |
