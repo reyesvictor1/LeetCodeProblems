@@ -59,6 +59,7 @@ Code practice problems from LeetCode platform.
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/896_monotonic_array/main.cpp)      | |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1051_height_checker/main.cpp)      | |
 | 1266  | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1266_minimum_time_visiting_all_points/main.cpp)   | |
+| 1287  | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1287_element_appearing_more_than_25_in_sorted_array/main.cpp) | |
 | 1323  | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1323_maximum_69_number/main.cpp) | |
 | 1436  | [Destination City](https://leetcode.com/problems/destination-city/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1436_destination_city/main.cpp) | |
 | 1512  | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1512_number_of_good_pairs/main.cpp) | |
