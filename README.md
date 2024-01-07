@@ -62,6 +62,7 @@ Code practice problems from LeetCode platform.
 | 1287  | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1287_element_appearing_more_than_25_in_sorted_array/main.cpp) | |
 | 1323  | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1323_maximum_69_number/main.cpp) | |
 | 1436  | [Destination City](https://leetcode.com/problems/destination-city/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1436_destination_city/main.cpp) | |
+| 1470  | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1470_shuffle_the_array/main.cpp) | |
 | 1512  | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1512_number_of_good_pairs/main.cpp) | |
 | 1572  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1572_matrix_diagonal_sum/main.cpp) | |
 | 1732  | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1732_find_the_highest_altitude/main.cpp)      | |
