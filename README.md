@@ -49,6 +49,7 @@ Code practice problems from LeetCode platform.
 | 448   | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/448_find_all_numbers_disappeared_in_an_array/main.cpp)   | |
 | 509   | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/509_fibonacci_number/main.cpp)      | |
 | 520   | [Detect Capital](https://leetcode.com/problems/detect-capital/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/520_detect_capital/main.cpp)      | |
+| 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/575_distribute_candies/main.cpp)      | |
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/704_binary_search/main.cpp)      | |
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/709_to_lower_case/main.cpp)      | |
 | 746   | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/746_min_cost_climbing_stairs/main.cpp)      | |
