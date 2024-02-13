@@ -43,6 +43,7 @@ Code practice problems from LeetCode platform.
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/344_reverse_string/main.cpp)      | |
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/347_top_k_frequent_elements/main.cpp)      | |
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/383_ransom_note/main.cpp)      | |
+| 387   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/387_first_unique_character_in_a_string/main.cpp)      | |
 | 389   | [Find the Difference](https://leetcode.com/problems/find-the-difference/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/389_find_the_difference/main.cpp)      | |
 | 392   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/392_is_subsequence/main.cpp)      | |
 | 412   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/412_fizz_buzz/main.cpp)      | |
