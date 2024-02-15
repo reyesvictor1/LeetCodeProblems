@@ -66,6 +66,7 @@ Code practice problems from LeetCode platform.
 | 1436  | [Destination City](https://leetcode.com/problems/destination-city/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1436_destination_city/main.cpp) | |
 | 1470  | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1470_shuffle_the_array/main.cpp) | |
 | 1512  | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1512_number_of_good_pairs/main.cpp) | |
+| 1518  | [Water Bottles](https://leetcode.com/problems/water-bottles/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1518_water_bottles/main.cpp) | |
 | 1572  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1572_matrix_diagonal_sum/main.cpp) | |
 | 1662  | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1662_check_if_two_string_arrays_are_equivalent/main.cpp) | |
 | 1672  | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1672_richest_customer_wealth/main.cpp) | |
