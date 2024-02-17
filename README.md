@@ -76,6 +76,7 @@ Code practice problems from LeetCode platform.
 | 1817  | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1817_finding_the_users_active_minutes/main.cpp)   | |
 | 2000  | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2000_reverse_prefix_of_word/main.cpp)      | |
 | 2032  | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2032_two_out_of_three/main.cpp)      | |
+| 2119  | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2119_a_number_after_a_double_reversal/main.cpp)      | |
 | 2215  | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2215_find_the_difference_of_two_arrays/main.cpp)| |
 | 2315  | [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2315_count_asterisks/main.cpp)| |
 | 2390  | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2390_removing_stars_from_a_string/main.cpp)| |
