@@ -35,6 +35,7 @@ Code practice problems from LeetCode platform.
 | 206   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/206_reverse_linked_list/main.cpp)      | |
 | 209   | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/209_minimum_size_subarray_sum/main.cpp) | |
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/217_contains_duplicate/main.cpp)      | |
+| 231   | [Power of Two](https://leetcode.com/problems/power-of-two/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/231_power_of_two/main.cpp)      | |
 | 242   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/242_valid_anagram/main.cpp)      | |
 | 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
 | 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
