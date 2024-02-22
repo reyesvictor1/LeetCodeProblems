@@ -62,6 +62,7 @@ Code practice problems from LeetCode platform.
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/860_lemonade_change/main.cpp)      | |
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/896_monotonic_array/main.cpp)      | |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1051_height_checker/main.cpp)      | |
+| 1108  | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1108_defanging_an_ip_address/main.cpp)      | |
 | 1266  | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1266_minimum_time_visiting_all_points/main.cpp)   | |
 | 1287  | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1287_element_appearing_more_than_25_in_sorted_array/main.cpp) | |
 | 1323  | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1323_maximum_69_number/main.cpp) | |
