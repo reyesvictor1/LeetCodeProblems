@@ -52,6 +52,7 @@ Code practice problems from LeetCode platform.
 | 448   | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/448_find_all_numbers_disappeared_in_an_array/main.cpp)   | |
 | 509   | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/509_fibonacci_number/main.cpp)      | |
 | 520   | [Detect Capital](https://leetcode.com/problems/detect-capital/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/520_detect_capital/main.cpp)      | |
+| 537   | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/537_complex_number_multiplication/main.cpp)   | |
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/575_distribute_candies/main.cpp)      | |
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/704_binary_search/main.cpp)      | |
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/709_to_lower_case/main.cpp)      | |
