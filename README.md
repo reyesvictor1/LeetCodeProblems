@@ -62,6 +62,7 @@ Code practice problems from LeetCode platform.
 | 844   | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/844_backspace_string_compare/main.cpp)      | |
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/860_lemonade_change/main.cpp)      | |
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/896_monotonic_array/main.cpp)      | |
+| 929   | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/929_unique_email_addresses/main.cpp) | |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1051_height_checker/main.cpp)      | |
 | 1108  | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1108_defanging_an_ip_address/main.cpp)      | |
 | 1266  | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1266_minimum_time_visiting_all_points/main.cpp)   | |
