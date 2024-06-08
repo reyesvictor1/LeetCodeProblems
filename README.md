@@ -85,6 +85,7 @@ Code practice problems from LeetCode platform.
 | 2119  | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2119_a_number_after_a_double_reversal/main.cpp)      | |
 | 2215  | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2215_find_the_difference_of_two_arrays/main.cpp)| |
 | 2315  | [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2315_count_asterisks/main.cpp)| |
+| 2325  | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2325_decode_the_message/main.cpp)| |
 | 2390  | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2390_removing_stars_from_a_string/main.cpp)| |
 | 2418  | [Sort the People](https://leetcode.com/problems/sort-the-people/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2418_sort_the_people/main.cpp)      | |
 | 2553  | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)     | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2553_separate_the_digits_in_an_array/main.cpp)      | |
