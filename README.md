@@ -39,6 +39,7 @@ Code practice problems from LeetCode platform.
 | 242   | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/242_valid_anagram/main.cpp)      | |
 | 257   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/257_find_the_duplicate_number/main.cpp)   | |
 | 258   | [Add Digits](https://leetcode.com/problems/add-digits/)                                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/258_add_digits/main.cpp)      | |
+| 260   | [Single Number III](https://leetcode.com/problems/single-number-iii/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/260_single_number_iii/main.cpp)      | |
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/268_missing_number/main.cpp)      | |
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/283_move_zeroes/main.cpp)      | |
 | 322   | [Coin Change](https://leetcode.com/problems/coin-change/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/322_coin_change/main.cpp)      | |
