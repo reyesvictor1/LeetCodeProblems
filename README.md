@@ -81,6 +81,7 @@ Code practice problems from LeetCode platform.
 | 1748  | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1748_sum_of_unique_elements/main.cpp)      | |
 | 1816  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1816_truncate_sentence/main.cpp)      | |
 | 1817  | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1817_finding_the_users_active_minutes/main.cpp)   | |
+| 1859  | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1859_sorting_the_sentence/main.cpp)      | |
 | 2000  | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2000_reverse_prefix_of_word/main.cpp)      | |
 | 2032  | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2032_two_out_of_three/main.cpp)      | |
 | 2119  | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/2119_a_number_after_a_double_reversal/main.cpp)      | |
