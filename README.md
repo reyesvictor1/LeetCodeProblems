@@ -77,6 +77,7 @@ Code practice problems from LeetCode platform.
 | 1572  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1572_matrix_diagonal_sum/main.cpp) | |
 | 1662  | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1662_check_if_two_string_arrays_are_equivalent/main.cpp) | |
 | 1672  | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1672_richest_customer_wealth/main.cpp) | |
+| 1710  | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on_a-truck/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1710_maximum_units_on_a_truck/main.cpp)      | |
 | 1732  | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1732_find_the_highest_altitude/main.cpp)      | |
 | 1748  | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1748_sum_of_unique_elements/main.cpp)      | |
 | 1816  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/1816_truncate_sentence/main.cpp)      | |
