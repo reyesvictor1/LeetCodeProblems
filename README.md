@@ -3,7 +3,7 @@ Code practice problems from LeetCode platform.
 
 | Problem | Title | C++ | Java |
 |---------|-------|:---:|:----:|
-| 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                          | [✓](https://github.com/reyesvictor00001/LeetCodeProblems/blob/main/00001-two-sum/main.cpp)      | [✓](https://github.com/reyesvictor00001/LeetCodeProblems/blob/main/00001-two-sum/Solution.java) |
+| 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00001-two-sum/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00001-two-sum/Solution.java) |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00002-add-two-numbers/main.cpp)      | |
 | 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00003-longest-substring-without-repeating-characters/main.cpp)      | |
 | 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00009-palindrome-number/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00009-palindrome-number/Solution.java) |
