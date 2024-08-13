@@ -3,13 +3,12 @@ Code practice problems from LeetCode platform.
 
 | Problem | Title | C++ | Java |
 |---------|-------|:---:|:----:|
-| 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                          | [✓](https://github.com/reyesvictor00001/LeetCodeProblems/blob/main/00001-two-sum/main.cpp)      | [✓](https://github.com/reyesvictor00001/LeetCodeProblems/blob/main/00001-two-sum/Solution.java) |
+| 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00001-two-sum/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00001-two-sum/Solution.java) |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00002-add-two-numbers/main.cpp)      | |
 | 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00003-longest-substring-without-repeating-characters/main.cpp)      | |
 | 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00009-palindrome-number/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00009-palindrome-number/Solution.java) |
 | 13    | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00013-roman-to-integer/main.cpp)      | |
 | 14    | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00014-longest-common-prefix/main.cpp)      | |
-| 17    | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00017-letter-combinations-of-a-phone-number/main.cpp) | |
 | 20    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00020-valid-parentheses/main.cpp)      | |
 | 26    | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00026-remove-duplicates-from-sorted-array/main.cpp)      | |
 | 27    | [Remove Element](https://leetcode.com/problems/remove-element/)             | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00027-remove-element/main.cpp)      | |
