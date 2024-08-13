@@ -51,6 +51,7 @@ Code practice problems from LeetCode platform.
 | 392   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00392-is-subsequence/main.cpp)      | |
 | 412   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00412-fizz-buzz/main.cpp)      | |
 | 448   | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00448-find-all-numbers-disappeared-in-an-array/main.cpp)   | |
+| 492   | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00492-construct-the-rectangle/main.cpp)      | |
 | 500   | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00500-keyboard-row/main.cpp)      | |
 | 509   | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00509-fibonacci-number/main.cpp)      | |
 | 520   | [Detect Capital](https://leetcode.com/problems/detect-capital/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00520-detect-capital/main.cpp)      | |
