@@ -67,6 +67,7 @@ Code practice problems from LeetCode platform.
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00896-monotonic-array/main.cpp)      | |
 | 929   | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00929-unique-email-addresses/main.cpp) | |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01051-height-checker/main.cpp)      | |
+| 1054  | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01054-distant-barcodes/main.cpp)      | |
 | 1108  | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01108-defanging-an-ip-address/main.cpp)      | |
 | 1266  | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01266-minimum-time-visiting-all-points/main.cpp)   | |
 | 1287  | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01287-element-appearing-more-than-25-in-sorted-array/main.cpp) | |
