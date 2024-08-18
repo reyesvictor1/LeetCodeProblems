@@ -66,6 +66,7 @@ Code practice problems from LeetCode platform.
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00860-lemonade-change/main.cpp)      | |
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00896-monotonic-array/main.cpp)      | |
 | 929   | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00929-unique-email-addresses/main.cpp) | |
+| 977   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00977-squares-of-a-sorted-array/main.cpp) | |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01051-height-checker/main.cpp)      | |
 | 1054  | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01054-distant-barcodes/main.cpp)      | |
 | 1108  | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01108-defanging-an-ip-address/main.cpp)      | |
