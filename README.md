@@ -58,6 +58,7 @@ Code practice problems from LeetCode platform.
 | 537   | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00537-complex-number-multiplication/main.cpp)   | |
 | 557   | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00557-reverse-words-in-a-string-iii/main.cpp)  | |
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00575-distribute-candies/main.cpp)      | |
+| 594   | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00594-longest-harmonious-subsequence/main.cpp)      | |
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00704-binary-search/main.cpp)      | |
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00709-to-lower-case/main.cpp)      | |
 | 746   | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00746-min-cost-climbing-stairs/main.cpp)      | |
