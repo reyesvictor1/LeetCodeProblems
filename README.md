@@ -28,6 +28,7 @@ Code practice problems from LeetCode platform.
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00136-single-number/main.cpp)      | |
 | 141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00141-linked-list-cycle/main.cpp)      | |
 | 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00151-reverse-words-in-a-string/main.cpp)   | |
+| 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00162-find-peak-element/main.cpp)      | |
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00169-majority-element/main.cpp)      | |
 | 171   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00171-excel-sheet-column-number/main.cpp)      | |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00189-rotate-array/main.cpp)      | |
