@@ -52,6 +52,7 @@ Code practice problems from LeetCode platform.
 | 392   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00392-is-subsequence/main.cpp)      | |
 | 409   | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00409-longest-palindrome/main.cpp)      | |
 | 412   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00412-fizz-buzz/main.cpp)      | |
+| 415   | [Add Strings](https://leetcode.com/problems/add-strings/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00415-add-strings/main.cpp)      | |
 | 448   | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00448-find-all-numbers-disappeared-in-an-array/main.cpp)   | |
 | 492   | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00492-construct-the-rectangle/main.cpp)      | |
 | 495   | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00495-teemo-attacking/main.cpp)      | |
