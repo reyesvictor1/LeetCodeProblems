@@ -81,6 +81,7 @@ Code practice problems from LeetCode platform.
 | 1266  | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01266-minimum-time-visiting-all-points/main.cpp)   | |
 | 1287  | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01287-element-appearing-more-than-25-in-sorted-array/main.cpp) | |
 | 1323  | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01323-maximum-69-number/main.cpp) | |
+| 1346  | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01346-check-if-n-and-its-double-exist/main.cpp) | |
 | 1436  | [Destination City](https://leetcode.com/problems/destination-city/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01436-destination-city/main.cpp) | |
 | 1470  | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01470-shuffle-the-array/main.cpp) | |
 | 1512  | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01512-number-of-good-pairs/main.cpp) | |
