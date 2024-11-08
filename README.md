@@ -57,6 +57,7 @@ Code practice problems from LeetCode platform.
 | 492   | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00492-construct-the-rectangle/main.cpp)      | |
 | 495   | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00495-teemo-attacking/main.cpp)      | |
 | 500   | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00500-keyboard-row/main.cpp)      | |
+| 506   | [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00506-relative-ranks/main.cpp)      | |
 | 509   | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00509-fibonacci-number/main.cpp)      | |
 | 520   | [Detect Capital](https://leetcode.com/problems/detect-capital/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00520-detect-capital/main.cpp)      | |
 | 537   | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00537-complex-number-multiplication/main.cpp)   | |
