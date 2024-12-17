@@ -97,6 +97,7 @@ Code practice problems from LeetCode platform.
 | 1816  | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01816-truncate-sentence/main.cpp)      | |
 | 1817  | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01817-finding-the-users-active-minutes/main.cpp)   | |
 | 1859  | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01859-sorting-the-sentence/main.cpp)      | |
+| 1903  | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01903-largest-odd-number-in-string/main.cpp)      | |
 | 2000  | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/02000-reverse-prefix-of-word/main.cpp)      | |
 | 2032  | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/02032-two-out-of-three/main.cpp)      | |
 | 2119  | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/02119-a-number-after-a-double-reversal/main.cpp)      | |
