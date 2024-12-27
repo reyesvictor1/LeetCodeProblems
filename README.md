@@ -23,6 +23,7 @@ Code practice problems from LeetCode platform.
 | 80    | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00080-remove-duplicates-from-sorted-array-ii/main.cpp)      | |
 | 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00088-merge-sorted-array/main.cpp)      | |
 | 120   | [Triangle](https://leetcode.com/problems/triangle/)                                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00120-triangle/main.cpp)      | |
+| 121   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00121-best-time-to-buy-and-sell-stock/main.cpp)      | |
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00125-valid-palindrome/main.cpp)      | |
 | 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00128-longest-consecutive-sequence/main.cpp)| |
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00136-single-number/main.cpp)      | |
