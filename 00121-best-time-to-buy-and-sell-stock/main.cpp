@@ -5,12 +5,14 @@ class Solution {
 public:
     int maxProfit(std::vector<int>& prices) {
         
+        // for each day, what's the most possible profit I can make?
+        // ANSWER: keep track of the lowest value that appeared before
+        int minPrice = prices[0]; // initialize min price as the first price
         int maxProfit = 0;
         for (int i = 0; i < prices.size() - 1; i++) {
-            for (int j = i + 1; j < prices.size(); j++) {
-                int profit = prices[j] - prices[i];
-                if (profit > maxProfit) maxProfit = profit;
-            }
+            if (prices[i] < minPrice) minPrice = prices[i];
+            int profit = prices[i] - minPrice;
+            if (profit > maxProfit) maxProfit = profit;
         }
         return maxProfit;
     }
