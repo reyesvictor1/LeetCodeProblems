@@ -17,6 +17,7 @@ Code practice problems from LeetCode platform.
 | 41    | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00041-first-missing-positive/main.cpp)  | |
 | 55    | [Jump Game](https://leetcode.com/problems/jump-game/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00055-jump-game/main.cpp)      | |
 | 58    | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                 |  [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00058-length-of-last-word/main.cpp)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00058-length-of-last-word/Solution.java) |
+| 62    | [Unique Paths](https://leetcode.com/problems/unique-paths/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00062-unique-paths/main.cpp)      | |
 | 66    | [Plus One](https://leetcode.com/problems/plus-one/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00066-plus-one/main.cpp)      | |
 | 70    | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00070-climbing-stairs/main.cpp)      | |
 | 75    | [Sort Colors](https://leetcode.com/problems/sort-colors/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00075-sort-colors/main.cpp)      | |
