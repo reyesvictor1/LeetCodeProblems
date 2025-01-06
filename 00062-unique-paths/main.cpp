@@ -15,7 +15,7 @@ public:
         // seed the base case: there is 1 way to reach the starting cell (1, 1)
         table[1][1] = 1;
 
-        // fill up the table
+        // fill the table
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 int currentValue = table[i][j];
@@ -26,7 +26,7 @@ public:
             }
         }
 
-        // the value at [m][n] contains the total number of unique paths
+        // the value at [m][n] is the total number of unique paths
         return table[m][n];
     }
 };
