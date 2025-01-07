@@ -36,6 +36,7 @@ Code practice problems from LeetCode platform.
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00169-majority-element/main.cpp)      | |
 | 171   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00171-excel-sheet-column-number/main.cpp)      | |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00189-rotate-array/main.cpp)      | |
+| 198   | [House Robber](https://leetcode.com/problems/house-robber/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00198-house-robber/main.cpp)      | |
 | 202   | [Happy Number](https://leetcode.com/problems/happy-number/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00202-happy-number/main.cpp)      | |
 | 206   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00206-reverse-linked-list/main.cpp)      | |
 | 209   | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00209-minimum-size-subarray-sum/main.cpp) | |
