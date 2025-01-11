@@ -49,6 +49,7 @@ Code practice problems from LeetCode platform.
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00268-missing-number/main.cpp)      | |
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00283-move-zeroes/main.cpp)      | |
 | 322   | [Coin Change](https://leetcode.com/problems/coin-change/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00322-coin-change/main.cpp)      | |
+| 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00338-counting-bits/main.cpp)      | |
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00344-reverse-string/main.cpp)      | |
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00347-top-k-frequent-elements/main.cpp)      | |
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00383-ransom-note/main.cpp)      | |
