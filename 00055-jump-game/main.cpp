@@ -5,26 +5,23 @@ class Solution {
 public:
     bool canJump(std::vector<int>& nums) {
         
-        // dynamic programming (tabulation)
+        // APPROACH: greedy
+        // what's the farthest possible index I can reach?
+        // update this index as you iterate through the nums array
+        // if you reach an index greater than the farthest reachable index, then you cannot reach the end
 
-        // pre-allocate the dp table
-        int tSize = nums.size();
-        std::vector<bool> table(tSize, false);
+        // NOTE: dynamic programming approach (tabulation) also works, but it's slower because:
+        // - it has a nested loop, resulting in O(n²) time complexity in the worst case
+        // - redundant updates: each index in table is updated multiple times as the outer loop progresses
+        // - use DP approach only if you need to track all reachable indices and not just
+        //   whether the last index is reachable
 
-        // seed the first value: always reachable, so, it's always true
-        table[0] = true;
-
-        // fill the table
-        for (int i = 0; i < tSize; i++) {
-            if (!table[i]) break;
-            int maxJump = nums[i];
-            for (int j = 1; j <= maxJump; j++) {
-                if (i + j < tSize) table[i + j] = true;
-            }
+        int farthestIdx = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            if (i > farthestIdx) return false; // current index is beyond the farthest reachable index
+            farthestIdx = std::max(farthestIdx, i + nums[i]); // update farthest index
         }
-
-        // return the last index of table 
-        return table[tSize - 1];
+        return true; // all indices were reachable, so, last index is reachable
     }
 };
 
