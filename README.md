@@ -27,6 +27,7 @@ Code practice problems from LeetCode platform.
 | 118   | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                   | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00118-pascals-triangle/main.cpp)      | |
 | 120   | [Triangle](https://leetcode.com/problems/triangle/)                                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00120-triangle/main.cpp)      | |
 | 121   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00121-best-time-to-buy-and-sell-stock/main.cpp)      | |
+| 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00122-best-time-to-buy-and-sell-stock-ii/main.cpp)      | |
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00125-valid-palindrome/main.cpp)      | |
 | 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00128-longest-consecutive-sequence/main.cpp)| |
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00136-single-number/main.cpp)      | |
