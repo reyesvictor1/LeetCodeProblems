@@ -67,6 +67,7 @@ Code practice problems from LeetCode platform.
 | 414   | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00414-third-maximum-number/main.cpp)    | |
 | 415   | [Add Strings](https://leetcode.com/problems/add-strings/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00415-add-strings/main.cpp)      | |
 | 448   | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00448-find-all-numbers-disappeared-in-an-array/main.cpp)   | |
+| 485   | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00485-max-consecutive-ones/main.cpp)  | |
 | 492   | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00492-construct-the-rectangle/main.cpp)      | |
 | 495   | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00495-teemo-attacking/main.cpp)      | |
 | 500   | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00500-keyboard-row/main.cpp)      | |
