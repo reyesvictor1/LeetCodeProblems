@@ -54,6 +54,7 @@ Code practice problems from LeetCode platform.
 | 260   | [Single Number III](https://leetcode.com/problems/single-number-iii/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00260-single-number-iii/main.cpp)      | |
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00268-missing-number/main.cpp)      | |
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00283-move-zeroes/main.cpp)      | |
+| 288   | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00288-summary-ranges/main.cpp)      | |
 | 322   | [Coin Change](https://leetcode.com/problems/coin-change/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00322-coin-change/main.cpp)      | |
 | 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00338-counting-bits/main.cpp)      | |
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00344-reverse-string/main.cpp)      | |
