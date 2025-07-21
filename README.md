@@ -94,6 +94,7 @@ Code practice problems from LeetCode platform.
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00860-lemonade-change/main.cpp)      |
 | 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00896-monotonic-array/main.cpp)      |
 | 929   | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00929-unique-email-addresses/main.cpp) |
+| 941   | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)            | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00941-valid-mountain-array/main.cpp) |
 | 977   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00977-squares-of-a-sorted-array/main.cpp) |
 | 1051  | [Height Checker](https://leetcode.com/problems/height-checker/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01051-height-checker/main.cpp)      |
 | 1054  | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/01054-distant-barcodes/main.cpp)      |
