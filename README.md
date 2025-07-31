@@ -35,6 +35,7 @@ Code practice problems from LeetCode platform.
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00125-valid-palindrome/main.cpp)      |
 | 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00128-longest-consecutive-sequence/main.cpp)|
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00136-single-number/main.cpp)      |
+| 139   | [Word Break](https://leetcode.com/problems/word-break/)                                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00139-word-break/main.cpp)      |
 | 141   | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00141-linked-list-cycle/main.cpp)      |
 | 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00151-reverse-words-in-a-string/main.cpp)   |
 | 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00162-find-peak-element/main.cpp)      |
