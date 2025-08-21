@@ -58,6 +58,7 @@ Code practice problems from LeetCode platform.
 | 322   | [Coin Change](https://leetcode.com/problems/coin-change/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00322-coin-change/main.cpp)      |
 | 326   | [Power of Three](https://leetcode.com/problems/power-of-three/)                         | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00326-power-of-three/main.cpp)      |
 | 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00338-counting-bits/main.cpp)      |
+| 342   | [Power of Four](https://leetcode.com/problems/power-of-four/)                          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00342-power-of-four/main.cpp)      |
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)                        | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00344-reverse-string/main.cpp)      |
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00347-top-k-frequent-elements/main.cpp)      |
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                              | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00383-ransom-note/main.cpp)      |
