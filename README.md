@@ -93,6 +93,7 @@ Code practice problems from LeetCode platform.
 | 746   | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00746-min-cost-climbing-stairs/main.cpp)      |
 | 771   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00771-jewels-and-stones/main.cpp)      |
 | 804   | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00804-unique-morse-code-words/main.cpp)      |
+| 819   | [Most Common Word](https://leetcode.com/problems/most-common-word/)                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00819-most-common-word/main.cpp)      |
 | 824   | [Goat Latin](https://leetcode.com/problems/goat-latin/)                                | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00824-goat-latin/main.cpp)      |
 | 832   | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00832-flipping-an-image/main.cpp)      |
 | 844   | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00844-backspace-string-compare/main.cpp)      |
