@@ -7,6 +7,7 @@ Code practice problems from LeetCode platform.
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)          | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00002-add-two-numbers/main.cpp)      |
 | 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00003-longest-substring-without-repeating-characters/main.cpp)  |
 | 9     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00009-palindrome-number/main.cpp)      |
+| 11    | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00011-container-with-most-water/main.cpp)      |
 | 13    | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00013-roman-to-integer/main.cpp)      |
 | 14    | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00014-longest-common-prefix/main.cpp)      |
 | 19    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)   | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00019-remove-nth-node-from-end-of-list/main.cpp)   |
