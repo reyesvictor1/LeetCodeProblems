@@ -29,6 +29,7 @@ Code practice problems from LeetCode platform.
 | 80    | [Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00080-remove-duplicates-from-sorted-array-ii/main.cpp)      |
 | 83    | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)   | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00083-remove-duplicates-from-sorted-list/main.cpp)      |
 | 88    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00088-merge-sorted-array/main.cpp)      |
+| 100   | [Same Tree](https://leetcode.com/problems/same-tree)                 | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00100-same-tree/main.cpp)      |
 | 118   | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                   | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00118-pascals-triangle/main.cpp)      |
 | 120   | [Triangle](https://leetcode.com/problems/triangle/)                                    | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00120-triangle/main.cpp)      |
 | 121   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [✓](https://github.com/reyesvictor1/LeetCodeProblems/blob/main/00121-best-time-to-buy-and-sell-stock/main.cpp)      |
